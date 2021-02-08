@@ -233,7 +233,7 @@ html, body, html * {
     .left2{
     display: flex;
     justify-content: center;
-    margin: 20% auto 60px;
+    margin: 10% auto 60px;
 
   }
 
@@ -647,7 +647,7 @@ html, body, html * {
     height: 100%;
     max-width: 1034px;
     max-height: 543px;
-    padding-top: 5%;
+    padding-top: 15%;
     margin: 0 auto;
 }
 .adhd-top-video .adhd-top-video2 {
